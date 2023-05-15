@@ -1,1 +1,1 @@
-This is the source code for Karen Wang's website. It is modified from                  from <a href="https://github.com/jonbarron/jonbarron_website" target="_blank">Jon Barron' website</a>. Feel free to clone this for your personal use.
+This is the source code for Karen Wang's website. It is modified from                  from <a href="https://github.com/jonbarron/jonbarron_website" target="_blank">Jon Barron's website</a>. Feel free to clone this for your personal use.
